@@ -538,6 +538,28 @@ html {
   .cards-18 .descr-card:nth-child(8) {
     margin-top: 50.7rem;
   }
+
+  .cards-19 .descr-card:nth-child(1) {
+    margin-top: 14.2rem;
+  }
+  .cards-19 .descr-card:nth-child(2) {
+    margin-top: 14.3rem;
+  }
+
+  .cards-20 .descr-card:nth-child(1) {
+    margin-top: 33.6rem;
+  }
+  .cards-20 .descr-card:nth-child(2) {
+    margin-top: 14.8rem;
+  }
+
+  .cards-21 .descr-card:nth-child(1) {
+    margin-top: 33.4rem;
+  }
+
+  .cards-22 .descr-card:nth-child(1) {
+    margin-top: 33.4rem;
+  }
 }
 
 @media (min-width: 960px) and (max-width: 1439px) {
@@ -704,6 +726,28 @@ html {
   }
   .cards-18 .descr-card:nth-child(8) {
     margin-top: 40.6rem;
+  }
+
+  .cards-19 .descr-card:nth-child(1) {
+    margin-top: 9rem;
+  }
+  .cards-19 .descr-card:nth-child(2) {
+    margin-top: 6.8rem;
+  }
+
+  .cards-20 .descr-card:nth-child(1) {
+    margin-top: 19.2rem;
+  }
+  .cards-20 .descr-card:nth-child(2) {
+    margin-top: 9.4rem;
+  }
+
+  .cards-21 .descr-card:nth-child(1) {
+    margin-top: 22.9rem;
+  }
+
+  .cards-22 .descr-card:nth-child(1) {
+    margin-top: 22.9rem;
   }
 }
 
